@@ -22,7 +22,6 @@ Deuxièmement, le PCB finalisé:
 
 PCB Test :
 
-<img width="973" height="832" alt="Capture d&#39;écran 2026-02-06 001156" src="https://github.com/user-attachments/assets/7b2cc8f7-1834-4333-a320-8832ada8f6fa" />
 <img width="973" height="832" alt="Capture d&#39;écran 2026-02-06 001156" src="https://github.com/user-attachments/assets/e1f19592-cc93-4aa9-996d-3d8b595521c5" />
 <img width="1919" height="1079" alt="Capture d&#39;écran 2026-02-05 231550" src="https://github.com/user-attachments/assets/e79e3fce-8bc4-4958-a367-dc828a89f7a1" />
 <img width="1919" height="1079" alt="Capture d&#39;écran 2026-02-05 230913" src="https://github.com/user-attachments/assets/8e1f9532-3123-4b9a-b277-d9dade70078a" />
