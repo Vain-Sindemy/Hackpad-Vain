@@ -5,17 +5,17 @@ from kmk.scanners import DiodeOrientation
 
 keyboard = KMKKeyboard()
 
-# On utilise tes numéros de pins (GP9, GP10, GP11)
-# La pin 13 (GP13) sert de ligne commune
+# Configuration selon ta photo : pins 11, 10, 9 pour les touches
+# et pin 13 pour le retour commun
 keyboard.col_pins = (board.GP11, board.GP10, board.GP9)
 keyboard.row_pins = (board.GP13,)
 keyboard.diode_orientation = DiodeOrientation.COL2ROW
 
 keyboard.keymap = [
     [
-        KC.LALT(KC.TAB),            # Switch 1 (Pin 11) : Alt + Tab
-        KC.LALT(KC.LSFT(KC.TAB)),   # Switch 2 (Pin 10) : Alt + Shift + Tab
-        KC.LGUI(KC.D)               # Switch 3 (Pin 9) : Windows + D
+        KC.LALT(KC.TAB),            # Switch 1 : Alt + Tab
+        KC.LALT(KC.LSFT(KC.TAB)),   # Switch 2 : Alt + Shift + Tab
+        KC.LGUI(KC.D)               # Switch 3 : Windows + D (Bureau)
     ]
 ]
 
