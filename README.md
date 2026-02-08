@@ -10,7 +10,7 @@ Premièrement, le SCH :
   <img width="1919" height="1079" alt="Capture d&#39;écran 2026-02-08 151320" src="https://github.com/user-attachments/assets/d28d7945-c36d-4b2a-a956-497809cce23a" />
 <img width="1919" height="1079" alt="Capture d&#39;écran 2026-02-08 151310" src="https://github.com/user-attachments/assets/24905ed0-6447-40be-ad04-437c6c4f33a0" />
 
-SCH Testes :
+SCH Test :
 
 <img width="582" height="764" alt="Capture d&#39;écran 2026-02-05 230609" src="https://github.com/user-attachments/assets/de137508-3f9b-491f-9b05-72c9d79d7941" />
 
@@ -20,7 +20,7 @@ Deuxièmement, le PCB finalisé:
 <img width="1919" height="1079" alt="Capture d&#39;écran 2026-02-08 151130" src="https://github.com/user-attachments/assets/995b5245-54a2-4a09-803d-a1b04cc845a8" />
 <img width="339" height="664" alt="Capture d&#39;écran 2026-02-08 151120" src="https://github.com/user-attachments/assets/6aa60046-8ecc-434a-ab2e-4f56c7d02b8b" />
 
-PCB Testes :
+PCB Test :
 
 <img width="973" height="832" alt="Capture d&#39;écran 2026-02-06 001156" src="https://github.com/user-attachments/assets/7b2cc8f7-1834-4333-a320-8832ada8f6fa" />
 <img width="973" height="832" alt="Capture d&#39;écran 2026-02-06 001156" src="https://github.com/user-attachments/assets/e1f19592-cc93-4aa9-996d-3d8b595521c5" />
@@ -36,7 +36,7 @@ PCB Testes :
 <img width="1919" height="1079" alt="Capture d&#39;écran 2026-02-08 151203" src="https://github.com/user-attachments/assets/4469a64f-6a01-44ba-93dd-f0cc57f7743e" />
 
 
- 3D Testes :
+ 3D Test :
 
  <img width="1246" height="744" alt="Capture d&#39;écran 2026-02-06 002434" src="https://github.com/user-attachments/assets/76b077af-9aba-47b0-b66a-6ea3aaa9836f" />
 <img width="1909" height="1076" alt="Capture d&#39;écran 2026-02-06 002213" src="https://github.com/user-attachments/assets/a5dc209a-d8dd-4a76-8b54-2d1764028218" />
